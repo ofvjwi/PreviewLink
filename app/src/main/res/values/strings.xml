@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FacebookPreviewLink</string>
+    <string name="create_post">Create Post</string>
+    <string name="post">Post</string>
+    <string name="khurshidbek_kurbanov">Khurshidbek Kurbanov</string>
+    <string name="public_text">Public</string>
+    <string name="album">Album</string>
+    <string name="what_s_on_your_mind">What\'s on your mind?</string>
+    <string name="text">KurbanovXurshid.Medium.com</string>
+    <string name="subtitle">Android(Java, Kotlin)-Course Plan</string>
+</resources>
